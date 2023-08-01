@@ -16,16 +16,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
--   [Overview](#overview)
-    -   [Built With](#built-with)
--   [Features](#features)
--   [Contact](#contact)
--   [Acknowledgements](#acknowledgements)
-
 <!-- OVERVIEW -->
 
 ## Overview
@@ -45,21 +35,5 @@ of the functions include "Creating the Reminder Lists, Deleting Reminders, Addin
 <li> The "Local Storage Class" contains "Static methods" that does not need instantiating. These methods will handle fucntions like:
 "Adding Reminder to Local Storage, Removing Reminders From Local Storage, Adding Reminders From Local Storage to the App" and so on.</li>
 <br>
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. -->
-
--[HTML](https://html.com/)<br> -[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br> -[JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/Javascript)<br>
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. -->
-
--   [Muslim Helalee Javascript Course on Udemy](https://www.udemy.com/course/javascript-zero-to-expert-the-complete-modern-guide-build-real-apps/?src=sac&kw=Javascript+developer+boot)<br>
--   [Brad Traversy Javascript Course on Udemy](https://www.udemy.com/modern-javascript-from-the-beginning/)<br>
--   [Answers and Guidelines From Stackoverflow users](https://stackoverflow.com/)<br>
--   [Google](https://www.google.com/)<br>
--   [Youtube] (https://m.youtube.com)<br>
 
 
